@@ -8,6 +8,7 @@ Before creating the project, .net 6.0 sdk must be downloaded and installed. Afte
 * [Entity Framework Core In Memory Preview 4 and above SDK](https://www.nuget.org/packages/Microsoft.EntityFrameworkCore.InMemory/6.0.0-preview.4.21253.1)  
 .Net CLI Installation Command :  `dotnet add package Microsoft.EntityFrameworkCore.InMemory --version 6.0.0-preview.4.21253.1`  
 
+### Create a New MinApi Project
 After making the necessary installations, run the following command on the command line to create a new project.  
 
 `dotnet new web -o MinApi`   
