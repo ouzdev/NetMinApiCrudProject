@@ -15,7 +15,7 @@ After making the necessary installations, run the following command on the comma
 
 `dotnet new web -o MinApi`   
 
-To open the project in vs code after creating the project, first open the project directory on the command line with the `cd {ProjectName}` command, then `code .` you can open the project in a new vs code window with the command
+To open the project in vs code after creating the project, first open the project directory on the command line with the `cd {ProjectFileName}` command, then `code .` you can open the project in a new vs code window with the command
 
 
 
