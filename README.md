@@ -10,7 +10,9 @@ Before creating the project, .net 6.0 sdk must be downloaded and installed. Afte
 
 After making the necessary installations, run the following command on the command line to create a new project.  
 
-`dotnet new web -o MinApi`
+`dotnet new web -o MinApi`   
+
+To open the project in vs code after creating the project, first open the project directory on the command line with the `cd {ProjectName}` command, then `code .` you can open the project in a new vs code window with the command
 
 
 
