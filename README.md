@@ -1,5 +1,7 @@
 # .NET 6.0 Preview 5 MinApi Crud Project
-![.NET 6.0 Preview 5 MinApi Crud Project - Oğuzcan Genç](https://github.com/ouzdev/MinApiExample/blob/master/.net-6-minapi-ouzdev.png?raw=true)
+![.NET 6.0 Preview 5 MinApi Crud Project - Oğuzcan Genç](https://github.com/ouzdev/MinApiExample/blob/master/.net-6-minapi-ouzdev.png?raw=true)  
+
+In this project, basically CRUD operations are handled. As an example, a product database has been created. There is a product table on this database. Simply listing, deleting, adding and updating operations on the product table are discussed.
 
 ## Getting Started
 Before creating the project, .net 6.0 sdk must be downloaded and installed. After the necessary SDK installations, make sure to do version control on the command line with the `dotnet --version` command.
