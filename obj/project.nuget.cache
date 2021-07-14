@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "02h6Jjq3qOXeukeY4GCJ53lmY4R8+aiMUtcNtAaq1BjtBhiHODzY+4z7CvORvoqO21vIiOtOfnbY3+Gx2VLEMQ==",
+  "dgSpecHash": "vJHv0PyGy4FCIuqv2qjqmeDglxbu7aDKFM7LUphI60OItX+M4jB+/TzCT/QxA14GzzM5/lG+evMicSgwxuQGPA==",
   "success": true,
   "projectFilePath": "C:\\Users\\ouzdev\\MinApiExample\\MinApiExample.csproj",
   "expectedPackageFiles": [
@@ -16,6 +16,10 @@
     "C:\\Users\\ouzdev\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0-preview.5.21301.5\\microsoft.extensions.logging.abstractions.6.0.0-preview.5.21301.5.nupkg.sha512",
     "C:\\Users\\ouzdev\\.nuget\\packages\\microsoft.extensions.options\\6.0.0-preview.5.21301.5\\microsoft.extensions.options.6.0.0-preview.5.21301.5.nupkg.sha512",
     "C:\\Users\\ouzdev\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0-preview.5.21301.5\\microsoft.extensions.primitives.6.0.0-preview.5.21301.5.nupkg.sha512",
+    "C:\\Users\\ouzdev\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\ouzdev\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.1.4\\swashbuckle.aspnetcore.swagger.6.1.4.nupkg.sha512",
+    "C:\\Users\\ouzdev\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.1.4\\swashbuckle.aspnetcore.swaggergen.6.1.4.nupkg.sha512",
+    "C:\\Users\\ouzdev\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.1.4\\swashbuckle.aspnetcore.swaggerui.6.1.4.nupkg.sha512",
     "C:\\Users\\ouzdev\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
     "C:\\Users\\ouzdev\\.nuget\\packages\\system.collections.immutable\\6.0.0-preview.5.21301.5\\system.collections.immutable.6.0.0-preview.5.21301.5.nupkg.sha512",
     "C:\\Users\\ouzdev\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.0-preview.5.21301.5\\system.diagnostics.diagnosticsource.6.0.0-preview.5.21301.5.nupkg.sha512",

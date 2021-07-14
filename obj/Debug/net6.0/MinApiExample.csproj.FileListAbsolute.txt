@@ -22,3 +22,8 @@ C:\Users\ouzdev\MinApiExample\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
 C:\Users\ouzdev\MinApiExample\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
 C:\Users\ouzdev\MinApiExample\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
 C:\Users\ouzdev\MinApiExample\obj\Debug\net6.0\MinApiExample.csproj.CopyComplete
+C:\Users\ouzdev\MinApiExample\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\ouzdev\MinApiExample\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ouzdev\MinApiExample\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ouzdev\MinApiExample\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ouzdev\MinApiExample\obj\Debug\net6.0\MinApiExample.MvcApplicationPartsAssemblyInfo.cs
