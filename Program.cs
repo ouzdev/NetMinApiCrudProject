@@ -6,12 +6,14 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.OpenApi.Models;
 
+
 var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddDbContext<ProductDbContext>(options => options.UseInMemoryDatabase("Products"));
 builder.Services.AddControllers();
 builder.Services.AddSwaggerGen(s =>
 {
     s.SwaggerDoc("v1", new OpenApiInfo { Title = "Api Dokümantasyonu", Version = "v1" });
+    
 
 });
 
@@ -20,11 +22,11 @@ await using var app = builder.Build();
 if (app.Environment.IsDevelopment())
 {
     app.UseDeveloperExceptionPage();
-    app.UseSwagger(c=>c.SerializeAsV2=true);
+    app.UseSwagger();
     app.UseSwaggerUI(c =>
     {
     c.SwaggerEndpoint("/swagger/v1/swagger.json", "Api v1");
-    c.RoutePrefix = string.Empty;
+    c.RoutePrefix =string.Empty;
     } 
     );
     
@@ -105,7 +107,7 @@ app.MapDelete("/products/{id}", async (http) =>
 });
 app.UseHttpsRedirection();
 app.UseAuthorization();
-
+app.MapControllers();
 await app.RunAsync();
 
 
