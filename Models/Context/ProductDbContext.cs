@@ -8,9 +8,3 @@ public class ProductDbContext : DbContext
     public DbSet<Product> Products { get; set; }
 }
 
-public class Product
-{
-    public int Id { get; set; }
-    public string Name { get; set; }
-    public double UnitPrice { get; set; }
-}
