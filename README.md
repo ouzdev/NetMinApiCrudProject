@@ -16,6 +16,10 @@ After making the necessary installations, run the following command on the comma
 `dotnet new web -o MinApi`   
 
 To open the project in vs code after creating the project, first open the project directory on the command line with the `cd {ProjectFileName}` command, then `code .` you can open the project in a new vs code window with the command
+<hr>
+
+### Added swagger support to the project
+https://oguzcangenc.medium.com/net-6-0-minapi-i%CC%87le-swagger-kullan%C4%B1m%C4%B1-40e318f78331
 
 
 
